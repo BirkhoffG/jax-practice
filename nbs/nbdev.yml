@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jax-practice"
+  site-url: "https://birkhoffg.github.io/jax-practice"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/birkhoffg/jax-practice"
