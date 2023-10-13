@@ -91,9 +91,7 @@ class FeaturesList:
         ...
 
     def transform(self, xs):
-        # TODO: use `jax.lax.scan` to implment this function.
         ...
 
     def inverse_transform(self, xs):
-        # TODO: use `jax.lax.scan` to implment this function.
         ...
