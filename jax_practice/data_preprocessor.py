@@ -51,6 +51,7 @@ class MinMaxScaler(DataPreprocessor):
         return xs * (self.max_ - self.min_) + self.min_
 
 # %% ../nbs/00_data_preprocessor.ipynb 8
+#!!! Fill in the missing code below.
 class OneHotEncoder(DataPreprocessor):
     """One-hot encoder for a single categorical feature."""
     
